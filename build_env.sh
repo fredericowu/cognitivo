@@ -1,6 +1,7 @@
 #!/bin/bash
 # testado em Mac e Ubuntu
 
+
 pip=$(which pip || which pip3)
 python3=$(which python3 || which python)
 virtualenv=$(which virtualenv)
