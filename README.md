@@ -16,8 +16,8 @@ Antes de tudo, você precisa instalar o python3 e o PIP para que seja possível 
 Siga o passo a passo, é bem simples ;)
 
 ```
-git clone https://bitbucket.org/fredericowu/cognitivo
-cd cognitivo
+git clone https://bitbucket.org/fredericowu/django-cognitivo
+cd django-cognitivo
 ./build_env.sh
 ```
 Durante a execução do build_env.sh, será perguntado o usuário administrador da interface de administração web e seus dados.
